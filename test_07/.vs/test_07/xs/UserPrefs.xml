@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{A9688537-BC59-C202-D08B-328AFC942013}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/CustomGrid.cs">
+    <Files>
+      <File FileName="Assets/CustomGrid.cs" Line="84" Column="53" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="test_07" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="CustomGrid.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="ba9de2b9-11cd-43ce-8fd0-95db28a064b8" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{A5AECC7B-FC37-A899-BDB7-F5C97AE03A55}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Pathfinding.cs">
+    <Files>
+      <File FileName="Assets/Node.cs" Line="20" Column="19" />
+      <File FileName="Assets/Grid.cs" Line="8" Column="39" />
+      <File FileName="Assets/Pathfinding.cs" Line="5" Column="19" />
+      <File FileName="Assets/Heap.cs" Line="127" Column="2" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="test_08" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Pathfinding.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="3d2f10ce-97df-4ed6-aab5-d04ed5821f97" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

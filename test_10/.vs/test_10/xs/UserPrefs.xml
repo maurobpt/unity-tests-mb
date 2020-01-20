@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{22C09A06-03FF-8DE6-E855-C7A1F04A16E0}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/ChangedMaterial.cs">
+    <Files>
+      <File FileName="Assets/ChangedMaterial.cs" Line="22" Column="45" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="test_10" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="ChangedMaterial.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="292a2562-99af-40c6-acc2-cea7663501db" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

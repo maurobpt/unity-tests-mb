@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{0EB1319B-FEDF-C07C-AC16-984EB622EBEE}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/ProceduralNumberGenerator.cs">
+    <Files>
+      <File FileName="Assets/MazeLoader.cs" Line="16" Column="26" />
+      <File FileName="Assets/MazeAlgorithm.cs" Line="5" Column="36" />
+      <File FileName="Assets/MazeCell.cs" Line="5" Column="22" />
+      <File FileName="Assets/HuntAndKillMazeAlgorithm.cs" Line="38" Column="20" />
+      <File FileName="Assets/ProceduralNumberGenerator.cs" Line="8" Column="74" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="test_03" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="ProceduralNumberGenerator.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="aabf1392-5f2a-4cba-bad3-1519b4d19c27" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

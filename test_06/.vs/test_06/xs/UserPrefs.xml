@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{76C718B1-E97E-1F45-F0BC-7BDD28AED17E}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/MapGenerator.cs">
+    <Files>
+      <File FileName="Assets/MapGenerator.cs" Line="40" Column="93" />
+      <File FileName="Assets/Editor/MapEditor.cs" />
+      <File FileName="Assets/Utility.cs" Line="8" Column="52" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="test_06" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="MapGenerator.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="67bcc339-92c2-4c2c-b96e-90c96d3e620f" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

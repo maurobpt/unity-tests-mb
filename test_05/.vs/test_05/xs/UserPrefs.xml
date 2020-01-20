@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{D9E4AA99-34C6-3134-51BE-6B92CB92F4B0}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/GameManager.cs">
+    <Files>
+      <File FileName="Assets/MazeCell.cs" Line="37" Column="5" />
+      <File FileName="Assets/Maze.cs" Line="105" Column="35" />
+      <File FileName="Assets/GameManager.cs" Line="33" Column="25" />
+      <File FileName="Assets/IntVector2.cs" Line="1" Column="22" />
+      <File FileName="Assets/MazeDirection.cs" Line="10" Column="1" />
+      <File FileName="Assets/MazeCellEdge.cs" Line="8" Column="11" />
+      <File FileName="Assets/MazePassage.cs" Line="3" Column="25" />
+      <File FileName="Assets/MazeWall.cs" Line="3" Column="41" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="test_05" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="GameManager.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="c812a7e0-52d1-4485-9e94-21f525a03552" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
